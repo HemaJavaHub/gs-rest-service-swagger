@@ -1,2 +1,2 @@
 # gs-rest-service-swagger
-https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+https://springframework.guru/spring-boot-restful-api-documentation-with-swagger-2/
